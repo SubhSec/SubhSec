@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Root</h1>
+<h1 align="center">Hi 👋, I'm SubhSec</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Learner-00FFFF?style=for-the-badge&logo=hackthebox&logoColor=black" />
@@ -52,8 +52,8 @@
 
 ## 📫 Connect With Me
 
-* 🌐 Medium: YOUR_LINK
-* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 🌐 Medium: subhsec.medium.com
+* 💻 GitHub: https://github.com/SubhSec
 
 ---
 
